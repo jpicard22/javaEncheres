@@ -1,0 +1,23 @@
+.gradient-custom {
+  /* fallback for old browsers /
+  background: #f6d365;
+
+  / Chrome 10-25, Safari 5.1-6 /
+  background: -webkit-linear-gradient(to right bottom, rgba(255, 116, 92, 1), rgba(255, 98, 67, 1));
+
+  / W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right bottom, rgba(255, 116, 92, 1), rgba(255, 98, 67, 1))
+}
+#boutonModifier {
+  background: #FF745C;
+  color: #e6e6e6;
+}
+
+#boutonModifier:hover {
+  background: #FF6243;
+  color: #e6e6e6;
+}
+.cardProfil{
+	margin-left: 0px;
+	margin-right: 0px;
+}
